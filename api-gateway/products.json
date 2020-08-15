@@ -1,0 +1,24 @@
+{
+    "products":[
+        {
+            "codigo":25,
+            "nome":"Feijão",
+            "quantidade": 5
+        },
+        {
+            "codigo":5,
+            "nome":"Bisteca",
+            "quantidade": 10
+        },
+        {
+            "codigo":205,
+            "nome":"Chocolate",
+            "quantidade": 2
+        },
+        {
+            "codigo":256,
+            "nome":"Arroz",
+            "quantidade": 5
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "consumindo-api",
+  "version": "1.0.0",
+  "description": "Criando e consumindo uma API com backend em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaubermarcelino/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "API",
+    "frontend",
+    "backend",
+    "axios"
+  ],
+  "author": "Glauber Marcelino da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaubermarcelino/nodejs/issues"
+  },
+  "homepage": "https://github.com/glaubermarcelino/nodejs#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}

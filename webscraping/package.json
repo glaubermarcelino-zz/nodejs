@@ -1,0 +1,27 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "Robô para buscar dados na internet",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaubermarcelino/nodejs.git"
+  },
+  "keywords": [
+    "webscrapping",
+    "crawnler"
+  ],
+  "author": "Glauber Marcelino da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaubermarcelino/nodejs/issues"
+  },
+  "homepage": "https://github.com/glaubermarcelino/nodejs#readme"
+}
